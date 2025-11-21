@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a second year bachelor's degree student in computer science.<br>🤝 I am looking for a work-study position for September 2025<br>🌱 I'm currently doing an internship at CNAM Angers.
+🔭 I am a third year bachelor's degree student in computer science.<br>🤝 I am looking for a work-study master's degree in development/devops for the start of the 2026 academic year.<br>🌱 I currently hold the position of technical development expert on a work-study basis for the FICO department at CTI Angers.
 
 
 ## 🌐 Socials:
